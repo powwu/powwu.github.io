@@ -28,8 +28,8 @@ twitter_username: _powwu
 github_username:  powwu
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
-  #theme: just-the-docs
+#remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 

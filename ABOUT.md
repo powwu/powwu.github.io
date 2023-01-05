@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](https://powwu.xyz/trns-about)
+
 # Howdy!
 The name's James, weird hobbies are my game.
 
