@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-![](https://powwu.xyz/trns-contact)
-
 <div class="code-example" markdown="1">
 #### Socials
 Discord: Powwu#0001

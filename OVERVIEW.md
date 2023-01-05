@@ -4,8 +4,6 @@ title: Overview
 permalink: /overview/
 ---
 
-![](https://powwu.xyz/trns-overview)
-
 # Overview
 
 ## Software used

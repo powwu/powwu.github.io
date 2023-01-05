@@ -10,7 +10,6 @@ Click the button below for a streamlined overview of my skillset and experience.
 </div>
 
 ![](https://avatars.githubusercontent.com/u/20643401)
-![](https://powwu.xyz/trns-index)
 # Powwu (James H.)
 
 Hello there!
